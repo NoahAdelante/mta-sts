@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Adelante Autos - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #000;
+      margin-bottom: 0.5rem;
+    }
+    h1 {
+      font-size: 1.75rem;
+      margin-top: 0;
+    }
+    h2 {
+      font-size: 1.25rem;
+      margin-top: 2rem;
+    }
+    p {
+      margin-bottom: 1rem;
+      line-height: 1.5;
+    }
+    ul {
+      list-style: disc;
+      margin-left: 2rem;
+      margin-bottom: 1rem;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    .contact-info {
+      margin-top: 1rem;
+    }
+    .contact-info p {
+      margin: 0.3rem 0;
+    }
+    .section-divider {
+      border-top: 1px solid #ccc;
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Adelante Autos</h1>
+  <p><strong>Effective Date:</strong> 01/01/2025</p>
+
+  <div class="section-divider"></div>
+
+  <h2>1. Introduction</h2>
+  <p>
+    Adelante Autos (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you visit our website, use our services, or interact with us.
+  </p>
+  <p>
+    By using our website or services, you agree to the collection and use of information as described in this policy.
+  </p>
+
+  <div class="section-divider"></div>
+
+  <h2>2. Information We Collect</h2>
+  <p>We may collect the following types of personal information:</p>
+  <ul>
+    <li><strong>Contact Information</strong> – Name, phone number, email address, mailing address.</li>
+    <li><strong>Financial Information</strong> – If applying for financing, we may collect income details, credit history, and related financial data.</li>
+    <li><strong>Vehicle Information</strong> – Details about your vehicle when you inquire about trades or purchases.</li>
+    <li><strong>Website Usage Data</strong> – IP addresses, browser types, pages visited, and interactions with our website.</li>
+    <li><strong>Communications</strong> – Information you provide when you contact us via phone, email, or forms.</li>
+  </ul>
+
+  <div class="section-divider"></div>
+
+  <h2>3. How We Use Your Information</h2>
+  <p>We use your personal information to:</p>
+  <ul>
+    <li>Process vehicle purchases, sales, and financing applications.</li>
+    <li>Provide customer support and respond to inquiries.</li>
+    <li>Improve our website and services.</li>
+    <li>Send promotions, updates, and marketing communications (if you opt-in).</li>
+    <li>Comply with legal and regulatory requirements.</li>
+  </ul>
+
+  <div class="section-divider"></div>
+
+  <h2>4. Sharing Your Information</h2>
+  <p>We do not sell or rent your personal information. We may share it with:</p>
+  <ul>
+    <li><strong>Lenders & Financial Institutions</strong> – For financing applications.</li>
+    <li><strong>Service Providers</strong> – Partners assisting in business operations (e.g., website hosting, marketing).</li>
+    <li><strong>Legal Authorities</strong> – If required by law or to protect our business and customers.</li>
+  </ul>
+
+  <div class="section-divider"></div>
+
+  <h2>5. Data Security</h2>
+  <p>
+    We implement appropriate security measures to protect your personal information from unauthorized access, alteration, or disclosure. However, no data transmission over the Internet is 100% secure.
+  </p>
+
+  <div class="section-divider"></div>
+
+  <h2>6. Your Privacy Choices</h2>
+  <ul>
+    <li>You can opt out of marketing emails by following the unsubscribe link.</li>
+    <li>You may request a copy or deletion of your personal data by contacting us.</li>
+    <li>You can disable cookies in your browser settings, but this may affect website functionality.</li>
+  </ul>
+
+  <div class="section-divider"></div>
+
+  <h2>7. Third-Party Links</h2>
+  <p>
+    Our website may contain links to third-party sites. We are not responsible for their privacy practices.
+  </p>
+
+  <div class="section-divider"></div>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>
+    We may update this policy from time to time. The latest version will be available on our website.
+  </p>
+
+  <div class="section-divider"></div>
+
+  <h2>9. Contact Us</h2>
+  <p>
+    If you have questions about this Privacy Policy, contact us at:
+  </p>
+  <div class="contact-info">
+    <p><strong>Adelante Autos</strong></p>
+    <p>18612 FM 1730</p>
+    <p>806-863-2300</p>
+    <p>Management@adelanteautos.com</p>
+  </div>
+</body>
+</html>
